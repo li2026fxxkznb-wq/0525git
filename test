@@ -7,3 +7,13 @@ def main():
 
 if __name__ == "__main__":
 	main()
+"""Simple script that prints 'hello'."""
+
+def main():
+	print("hello")
+
+
+if __name__ == "__main__":
+	main()
+
+
